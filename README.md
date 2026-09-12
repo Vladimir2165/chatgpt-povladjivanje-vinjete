@@ -1,7 +1,4 @@
 # chatgpt-povladjivanje-vinjete
-Eksperimentalne vinjete korišćene u istraživanju povlađujućih odgovora ChatGPT-a i procenjene usklađenosti sa HHH principima.
-
-Eksperimentalne vinjete za istraživanje povlađivanja ChatGPT-a
 
 Ovaj repozitorijum sadrži eksperimentalni materijal korišćen u master radu:
 
