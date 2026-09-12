@@ -56,7 +56,7 @@ U ovom repozitorijumu dostupne su vinjete korišćene u procesu razvoja eksperim
 
 ## Organizacija fajlova
 
-Vinjete se nalaze u direktorijumu `vignettes`.
+Vinjete se nalaze u direktorijumu `vinjete`.
 
 Nazivi fajlova sadrže kodiranje eksperimentalnih karakteristika vinjeti i omogućavaju njihovo povezivanje sa odgovarajućim uslovima eksperimenta i istraživačkim podacima.
 
